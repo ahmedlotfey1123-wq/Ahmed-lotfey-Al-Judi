@@ -1,0 +1,6 @@
+{
+  "name": "PicMaster SEO & Ad Gallery",
+  "description": "منصة احترافية لمعرض الصور وتحسين الأرشفة الفورية لمحركات البحث مع نظام متكامل لإدارة الروابط الإعلانية التلقائية ولوحة تحكم شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
